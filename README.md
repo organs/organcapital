@@ -6,6 +6,20 @@ A full-stack treasury management dashboard for a systematic credit hedge fund. B
 
 Organ Capital tracks daily cash positions across prime brokers, monitors upcoming obligations (trade settlements, margin calls, redemptions), and provides AI-assisted cash management via a Claude-powered chatbot.
 
+## Screenshots
+
+### Treasury Dashboard
+![Treasury Dashboard](docs/screenshots/dashboard.png)
+
+### Cash Positions
+![Cash Positions](docs/screenshots/cash-positions.png)
+
+### Portfolio Holdings
+![Portfolio Holdings](docs/screenshots/portfolio.png)
+
+### Cash Obligations
+![Cash Obligations](docs/screenshots/obligations.png)
+
 ## Features
 
 - **Dashboard** — KPI cards, 30-day cash history, 7-day forecast
