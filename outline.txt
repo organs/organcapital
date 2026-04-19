@@ -1,0 +1,27 @@
+What is the simplest starting use case? 
+Core systematic credit hedge fund would be day to day cash management. Understanding trade settlements,redemptions and margin calls. Hand and hand managing cash to meet needs. Cash at custodian / prime broker. Would need to be moved around to meet cash needs. & structure. How to understand where all the cash is being held then projecting current and short term 1 to 2 day needs. 
+
+
+Create fake data and assets for: 
+Hedgefund  Name Organ Capital
+Fct_current_cash
+Direct relationship between hedge fund and broker
+Each day 1 cash value to settle daily End of day 
+No intermediary – 
+Fk custodian
+Primary key of settlement_id
+Dim_custodian
+Who
+Information on firm
+Snapshots historically 
+Fct_assets
+Credit fund – mostly bonds – derivatives, options, contracts etc… 
+Fct_needs
+Systematic in natures looking for specific market signals– algo 
+Day over day 
+Week over week
+Month over month
+Based on historical flows
+Timing on market signals
+Dim_time
+Backbone table to to adhere to daily 
